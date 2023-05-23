@@ -6,9 +6,13 @@ Dane pobierane są z repozytorium github za pośrednictwem url. Plik .csv zosta�
 Etapy znajdują sie w oddzielnych plikach. Dołączam również bezpośrednie linki do notebooków:
 
 Etap2:
+
 Etap3:
+
 Etap4:
 
 W etapie 2 wybrane modele: Bernoulli Naive Bayes, SVC, Logistic Regression 
+
 W etapie 3 wykorzystano sieć kensor
+
 W etapie 4 użyto BERT
