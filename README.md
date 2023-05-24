@@ -9,7 +9,7 @@ Etap2: https://colab.research.google.com/drive/1ClleW7d7mQiKVz7mc3-KendJsWguzvxf
 
 Etap3: https://colab.research.google.com/drive/1XYMOLt-o6TCxmdg9iArPe4oamxeEhdNA#scrollTo=iLp3B1lazjQr
 
-Etap4:
+Etap4: https://colab.research.google.com/drive/1gIJYazAcY7OY0YGTUJa5FV2MGG4aLSzV#scrollTo=X5Aphg6rSInA
 
 W etapie 2 wybrane modele: Bernoulli Naive Bayes, SVC, Logistic Regression 
 
