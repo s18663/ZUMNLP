@@ -15,4 +15,8 @@ W etapie 2 wybrane modele: Bernoulli Naive Bayes, SVC, Logistic Regression
 
 W etapie 3 wykorzystano sieć keras z dodatkową wektoryzacją z użyciem Glove. Fine-tuning został wykonany przy użyciu callbacks (ModelCheckpoint oraz EarlyStopping) z dodatkowym mrożeniem trenowania początkowych warstw modelu.
 
-W etapie 4 użyto BERT
+W etapie 4 użyto SiEBERT (English-Language Sentiment Classification) https://huggingface.co/siebert/sentiment-roberta-large-english
+
+Ze względu na brak modeli uwzględniających sentyment neutralny, przyjęto wartości tylko pozytywne(positive i neutral) i negatywne.
+
+Wyniki zapewne byłyby lepsze gdyby zestaw danych był trochę większy, zainteresował mnie on jednak ze względu na dużą ilość tekstu do ogólnego przewidzenia sentymentu. Zestaw miał przypisane sentymenty zarówno do całego dokumentu jak i poszczególnych paragrafów, ale w projekcie używałam całego tekstu by sama dokonać podziałów itp. 
